@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/deploy-forntend/static/js/main.7aa10d06.chunk.js",
+    "main.js.map": "/deploy-forntend/static/js/main.7aa10d06.chunk.js.map",
+    "runtime-main.js": "/deploy-forntend/static/js/runtime-main.1c072876.js",
+    "runtime-main.js.map": "/deploy-forntend/static/js/runtime-main.1c072876.js.map",
+    "static/css/2.11630d29.chunk.css": "/deploy-forntend/static/css/2.11630d29.chunk.css",
+    "static/js/2.885ba3ca.chunk.js": "/deploy-forntend/static/js/2.885ba3ca.chunk.js",
+    "static/js/2.885ba3ca.chunk.js.map": "/deploy-forntend/static/js/2.885ba3ca.chunk.js.map",
+    "index.html": "/deploy-forntend/index.html",
+    "precache-manifest.1fe294d283f0552b3a7ba083fe507c27.js": "/deploy-forntend/precache-manifest.1fe294d283f0552b3a7ba083fe507c27.js",
+    "service-worker.js": "/deploy-forntend/service-worker.js",
+    "static/css/2.11630d29.chunk.css.map": "/deploy-forntend/static/css/2.11630d29.chunk.css.map",
+    "static/js/2.885ba3ca.chunk.js.LICENSE.txt": "/deploy-forntend/static/js/2.885ba3ca.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/deploy-forntend/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c072876.js",
+    "static/css/2.11630d29.chunk.css",
+    "static/js/2.885ba3ca.chunk.js",
+    "static/js/main.7aa10d06.chunk.js"
+  ]
+}
